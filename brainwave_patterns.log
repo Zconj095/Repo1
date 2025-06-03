@@ -1,0 +1,7 @@
+2025-06-03 07:56:09,108 - BrainwaveAnalyzer - INFO - Baseline established with 100 frequency samples
+2025-06-03 07:56:09,111 - BrainwaveAnalyzer - WARNING - Significant pattern detected: high_activity_state (Severity: medium) - Both frequency and amplitude elevated
+2025-06-03 07:56:09,112 - BrainwaveAnalyzer - WARNING - Significant pattern detected: low_activity_state (Severity: medium) - Both frequency and amplitude suppressed
+2025-06-03 07:56:09,113 - BrainwaveAnalyzer - WARNING - Significant pattern detected: extreme_amplitude_deviation (Severity: high) - Extreme amplitude deviation (z-score: 3.97)
+2025-06-03 07:56:09,115 - BrainwaveAnalyzer - WARNING - Significant pattern detected: extreme_frequency_deviation (Severity: high) - Extreme frequency deviation (z-score: 6.85)
+2025-06-03 07:56:09,116 - BrainwaveAnalyzer - WARNING - Significant pattern detected: extreme_frequency_deviation (Severity: high) - Extreme frequency deviation (z-score: -3.67)
+2025-06-03 07:56:09,122 - BrainwaveAnalyzer - INFO - Pattern log exported to brainwave_pattern_log_20250603_075609.json
